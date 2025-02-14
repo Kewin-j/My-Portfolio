@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+
+.home-img text-center{
+    height: 100%;
+   
+}
+
+#image{
+    width: 50%;
+}
+
+#emp{
+   width: 100%;
+}
+
+ #cus{
+        height:240px; 
+        object-fit: cover; 
+        width: 100%; 
+    }
+
+#emp{
+    height:240px; 
+        object-fit: cover; 
+        width: 100%; 
+
+}      
+
+ #a:hover{ 
+    background-color: red;
+    
+}     
+
+#aaa{
+    align-content: start;
+}
+
+#ht{
+    color: orangered;
+}
+
+#bt{
+    color: blueviolet;
+}
+
+#ja{
+    color: orange;
+}
+
+#db{
+    color: blue;
+}
+
+.list-inline-item:hover{
+    text-decoration: underline;
+    
+}
+
